@@ -1,5 +1,7 @@
 
-# 💫 About Me:
+<img width="3799" height="1056" alt="Gemini_Generated_Image_bhbnfzbhbnfzbhbn" src="https://github.com/user-attachments/assets/40239032-c5a1-48a7-ac63-813c7ccda7d9" />
+# 💫 About Me :
+
 I am a passionate and results-driven DevOps Engineer with hands-on experience in designing, deploying, and managing scalable and resilient infrastructure. Skilled in CI/CD pipelines, cloud platforms, containerization, and infrastructure as code, I thrive on automating processes and optimizing workflows to accelerate development cycles and improve system reliability.<br><br>Proficient with tools such as Docker, Kubernetes, Jenkins, Prometheus, Grafana, Terraform, and Git, I excel in bridging the gap between development and operations teams to ensure seamless delivery of high-quality software. My expertise extends to monitoring, observability, and security best practices, enabling proactive problem-solving and performance optimization in dynamic environments.<br><br>I am driven by continuous learning and innovation, with a focus on leveraging modern DevOps practices to support business goals, improve efficiency, and foster collaboration across teams.
 
 
