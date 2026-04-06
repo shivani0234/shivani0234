@@ -10,6 +10,8 @@ I am a passionate and results-driven DevOps Engineer with hands-on experience in
 ![](https://github-readme-stats.vercel.app/api?username=shivani0234&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shivani0234&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivani0234&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
----
+![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivani0234&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivani0234&layout=compact&theme=radical)
